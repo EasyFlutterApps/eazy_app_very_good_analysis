@@ -10,7 +10,7 @@ A Modified version of very_good_analysis [`very_good_analysis`](https://pub.dev/
 ## Usage 🚀
 Run this command to install the package:
 ```sh
-mason make eazy_app_very_good_analysis
+mason make eazy_app_very_good_analysis --on-conflict overwrite
 ```
 
 ## Output 📦
