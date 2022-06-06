@@ -2,3 +2,7 @@
 
 * Initial release 🎉
   * It's add/modified analysis file in the project 
+
+# 0.1.0+2
+
+* README.md is updated
